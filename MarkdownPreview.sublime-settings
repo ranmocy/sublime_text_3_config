@@ -1,0 +1,4 @@
+{
+    "enabled_parsers": ["markdown"],
+    "markdown_filetypes": [".md", ".markdown", ".mdown", "txt"]
+}

@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+\begin{algorithm}[H]
+  \SetKwProg{Fn}{Function}{}{end}
+  \Fn{\textsc{${1:function_name}}{(${2:args})}}{
+    $0
+  }
+  \caption{${3:Description of function}}
+\end{algorithm}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>algorithm</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.tex.latex</scope>
+</snippet>

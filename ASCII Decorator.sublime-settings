@@ -1,0 +1,156 @@
+// Font: AMC AAA01 Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+// S.        sSSs_sSSs     .S_sSSs      sSSs   .S_SsS_S.          .S   .S_sSSs      sSSs   .S       S.    .S_SsS_S.
+// SS.      d%%SP~YS%%b   .SS~YS%%b    d%%SP  .SS~S*S~SS.        .SS  .SS~YS%%b    d%%SP  .SS       SS.  .SS~S*S~SS.
+// S%S     d%S'     `S%b  S%S   `S%b  d%S'    S%S `Y' S%S        S%S  S%S   `S%b  d%S'    S%S       S%S  S%S `Y' S%S
+// S%S     S%S       S%S  S%S    S%S  S%S     S%S     S%S        S%S  S%S    S%S  S%|     S%S       S%S  S%S     S%S
+// S&S     S&S       S&S  S%S    d*S  S&S     S%S     S%S        S&S  S%S    d*S  S&S     S&S       S&S  S%S     S%S
+// S&S     S&S       S&S  S&S   .S*S  S&S_Ss  S&S     S&S        S&S  S&S   .S*S  Y&Ss    S&S       S&S  S&S     S&S
+// S&S     S&S       S&S  S&S_sdSSS   S&S~SP  S&S     S&S        S&S  S&S_sdSSS   `S&&S   S&S       S&S  S&S     S&S
+// S&S     S&S       S&S  S&S~YSY%b   S&S     S&S     S&S        S&S  S&S~YSSY      `S*S  S&S       S&S  S&S     S&S
+// S*b     S*b       d*S  S*S   `S%b  S*b     S*S     S*S        S*S  S*S            l*S  S*b       d*S  S*S     S*S
+// S*S.    S*S.     .S*S  S*S    S%S  S*S.    S*S     S*S        S*S  S*S           .S*P  S*S.     .S*S  S*S     S*S
+//  SSSbs   SSSbs_sdSSS   S*S    S&S   SSSbs  S*S     S*S        S*S  S*S         sSS*S    SSSbs_sdSSS   S*S     S*S
+//   YSSP    YSSP~YSSY    S*S    SSS    YSSP  SSS     S*S        S*S  S*S         YSS'      YSSP~YSSY    SSS     S*S
+//                        SP                          SP         SP   SP                                         SP
+//                        Y                           Y          Y    Y                                          Y
+
+
+// Font: Big Money-ne Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+//  /$$                                                         /$$$$$$
+// | $$                                                        |_  $$_/
+// | $$        /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$/$$$$         | $$    /$$$$$$   /$$$$$$$ /$$   /$$ /$$$$$$/$$$$
+// | $$       /$$__  $$ /$$__  $$ /$$__  $$| $$_  $$_  $$        | $$   /$$__  $$ /$$_____/| $$  | $$| $$_  $$_  $$
+// | $$      | $$  \ $$| $$  \__/| $$$$$$$$| $$ \ $$ \ $$        | $$  | $$  \ $$|  $$$$$$ | $$  | $$| $$ \ $$ \ $$
+// | $$      | $$  | $$| $$      | $$_____/| $$ | $$ | $$        | $$  | $$  | $$ \____  $$| $$  | $$| $$ | $$ | $$
+// | $$$$$$$$|  $$$$$$/| $$      |  $$$$$$$| $$ | $$ | $$       /$$$$$$| $$$$$$$/ /$$$$$$$/|  $$$$$$/| $$ | $$ | $$
+// |________/ \______/ |__/       \_______/|__/ |__/ |__/      |______/| $$____/ |_______/  \______/ |__/ |__/ |__/
+//                                                                     | $$
+//                                                                     | $$
+//                                                                     |__/
+
+// Font: Big Money-nw Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+// $$\                                                        $$$$$$\
+// $$ |                                                       \_$$  _|
+// $$ |      $$$$$$\   $$$$$$\   $$$$$$\  $$$$$$\$$$$\          $$ |   $$$$$$\   $$$$$$$\ $$\   $$\ $$$$$$\$$$$\
+// $$ |     $$  __$$\ $$  __$$\ $$  __$$\ $$  _$$  _$$\         $$ |  $$  __$$\ $$  _____|$$ |  $$ |$$  _$$  _$$\
+// $$ |     $$ /  $$ |$$ |  \__|$$$$$$$$ |$$ / $$ / $$ |        $$ |  $$ /  $$ |\$$$$$$\  $$ |  $$ |$$ / $$ / $$ |
+// $$ |     $$ |  $$ |$$ |      $$   ____|$$ | $$ | $$ |        $$ |  $$ |  $$ | \____$$\ $$ |  $$ |$$ | $$ | $$ |
+// $$$$$$$$\\$$$$$$  |$$ |      \$$$$$$$\ $$ | $$ | $$ |      $$$$$$\ $$$$$$$  |$$$$$$$  |\$$$$$$  |$$ | $$ | $$ |
+// \________|\______/ \__|       \_______|\__| \__| \__|      \______|$$  ____/ \_______/  \______/ \__| \__| \__|
+//                                                                    $$ |
+//                                                                    $$ |
+//                                                                    \__|
+
+// Font: Big Money-se Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+//  __                                                         ______
+// |  \                                                       |      \
+// | $$       ______    ______    ______   ______ ____         \$$$$$$  ______    _______  __    __  ______ ____
+// | $$      /      \  /      \  /      \ |      \    \         | $$   /      \  /       \|  \  |  \|      \    \
+// | $$     |  $$$$$$\|  $$$$$$\|  $$$$$$\| $$$$$$\$$$$\        | $$  |  $$$$$$\|  $$$$$$$| $$  | $$| $$$$$$\$$$$\
+// | $$     | $$  | $$| $$   \$$| $$    $$| $$ | $$ | $$        | $$  | $$  | $$ \$$    \ | $$  | $$| $$ | $$ | $$
+// | $$_____| $$__/ $$| $$      | $$$$$$$$| $$ | $$ | $$       _| $$_ | $$__/ $$ _\$$$$$$\| $$__/ $$| $$ | $$ | $$
+// | $$     \\$$    $$| $$       \$$     \| $$ | $$ | $$      |   $$ \| $$    $$|       $$ \$$    $$| $$ | $$ | $$
+//  \$$$$$$$$ \$$$$$$  \$$        \$$$$$$$ \$$  \$$  \$$       \$$$$$$| $$$$$$$  \$$$$$$$   \$$$$$$  \$$  \$$  \$$
+//                                                                    | $$
+//                                                                    | $$
+//                                                                     \$$
+
+// Font: Big Money-sw Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+//  __                                                          ______
+// /  |                                                        /      |
+// $$ |        ______    ______    ______   _____  ____        $$$$$$/   ______    _______  __    __  _____  ____
+// $$ |       /      \  /      \  /      \ /     \/    \         $$ |   /      \  /       |/  |  /  |/     \/    \
+// $$ |      /$$$$$$  |/$$$$$$  |/$$$$$$  |$$$$$$ $$$$  |        $$ |  /$$$$$$  |/$$$$$$$/ $$ |  $$ |$$$$$$ $$$$  |
+// $$ |      $$ |  $$ |$$ |  $$/ $$    $$ |$$ | $$ | $$ |        $$ |  $$ |  $$ |$$      \ $$ |  $$ |$$ | $$ | $$ |
+// $$ |_____ $$ \__$$ |$$ |      $$$$$$$$/ $$ | $$ | $$ |       _$$ |_ $$ |__$$ | $$$$$$  |$$ \__$$ |$$ | $$ | $$ |
+// $$       |$$    $$/ $$ |      $$       |$$ | $$ | $$ |      / $$   |$$    $$/ /     $$/ $$    $$/ $$ | $$ | $$ |
+// $$$$$$$$/  $$$$$$/  $$/        $$$$$$$/ $$/  $$/  $$/       $$$$$$/ $$$$$$$/  $$$$$$$/   $$$$$$/  $$/  $$/  $$/
+//                                                                     $$ |
+//                                                                     $$ |
+//                                                                     $$/
+
+// Font: Georgia11 Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+
+
+// `7MMF'                                                    `7MMF'
+//   MM                                                        MM
+//   MM         ,pW"Wq.`7Mb,od8 .gP"Ya `7MMpMMMb.pMMMb.        MM `7MMpdMAo. ,pP"Ybd `7MM  `7MM  `7MMpMMMb.pMMMb.
+//   MM        6W'   `Wb MM' "',M'   Yb  MM    MM    MM        MM   MM   `Wb 8I   `"   MM    MM    MM    MM    MM
+//   MM      , 8M     M8 MM    8M""""""  MM    MM    MM        MM   MM    M8 `YMMMa.   MM    MM    MM    MM    MM
+//   MM     ,M YA.   ,A9 MM    YM.    ,  MM    MM    MM        MM   MM   ,AP L.   I8   MM    MM    MM    MM    MM
+// .JMMmmmmMMM  `Ybmd9'.JMML.   `Mbmmd'.JMML  JMML  JMML.    .JMML. MMbmmd'  M9mmmP'   `Mbod"YML..JMML  JMML  JMML.
+//                                                                  MM
+//                                                                .JMML.
+
+// Font: clb8x10 Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+
+//  ##                                                    ######
+//  ##                                                      ##
+//  ##        #####   ## ###    #####   ### ##              ##     ######    #####   ##   ##  ### ##
+//  ##       ##   ##  ###      ##   ##  ## # ##             ##     ##   ##  ##       ##   ##  ## # ##
+//  ##       ##   ##  ##       #######  ## # ##             ##     ##   ##   ####    ##   ##  ## # ##
+//  ##       ##   ##  ##       ##       ## # ##             ##     ##   ##      ##   ##  ###  ## # ##
+//  ######    #####   ##        #####   ##   ##           ######   ######   #####     ### ##  ##   ##
+//                                                                 ##
+//                                                                 ##
+
+// Font: clb8x8 Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+//  ##                                                    ######
+//  ##                                                      ##
+//  ##        #####   ## ###    #####   ### ##              ##     ######    #####   ##   ##  ### ##
+//  ##       ##   ##  ###      ##   ##  ## # ##             ##     ##   ##  ##       ##   ##  ## # ##
+//  ##       ##   ##  ##       #######  ## # ##             ##     ##   ##   ####    ##   ##  ## # ##
+//  ##       ##   ##  ##       ##       ## # ##             ##     ##   ##      ##   ##  ###  ## # ##
+//  ######    #####   ##        #####   ##   ##           ######   ######   #####     ### ##  ##   ##
+//                                                                 ##
+
+// Font: georgi16 Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+
+
+// ____                                                      ____
+// `MM'                                                      `MM'
+//  MM                                                        MM
+//  MM        _____   ___  __   ____   ___  __    __          MM __ ____     ____   ___   ___ ___  __    __
+//  MM       6MMMMMb  `MM 6MM  6MMMMb  `MM 6MMb  6MMb         MM `M6MMMMb   6MMMMb\ `MM    MM `MM 6MMb  6MMb
+//  MM      6M'   `Mb  MM69 " 6M'  `Mb  MM69 `MM69 `Mb        MM  MM'  `Mb MM'    `  MM    MM  MM69 `MM69 `Mb
+//  MM      MM     MM  MM'    MM    MM  MM'   MM'   MM        MM  MM    MM YM.       MM    MM  MM'   MM'   MM
+//  MM      MM     MM  MM     MMMMMMMM  MM    MM    MM        MM  MM    MM  YMMMMb   MM    MM  MM    MM    MM
+//  MM      MM     MM  MM     MM        MM    MM    MM        MM  MM    MM      `Mb  MM    MM  MM    MM    MM
+//  MM    / YM.   ,M9  MM     YM    d9  MM    MM    MM        MM  MM.  ,M9 L    ,MM  YM.   MM  MM    MM    MM
+// _MMMMMMM  YMMMMM9  _MM_     YMMMM9  _MM_  _MM_  _MM_      _MM_ MMYMMM9  MYMMMM9    YMMM9MM__MM_  _MM_  _MM_
+//                                                                MM
+//                                                                MM
+//                                                               _MM_
+
+// Font: poison Directory: /Users/ranmocy/Library/Application Support/Sublime Text 3/Packages/ASCII Decorator/pyfiglet/fonts
+
+// @@@        @@@@@@   @@@@@@@   @@@@@@@@  @@@@@@@@@@      @@@  @@@@@@@    @@@@@@   @@@  @@@  @@@@@@@@@@
+// @@@       @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@@@@     @@@  @@@@@@@@  @@@@@@@   @@@  @@@  @@@@@@@@@@@
+// @@!       @@!  @@@  @@!  @@@  @@!       @@! @@! @@!     @@!  @@!  @@@  !@@       @@!  @@@  @@! @@! @@!
+// !@!       !@!  @!@  !@!  @!@  !@!       !@! !@! !@!     !@!  !@!  @!@  !@!       !@!  @!@  !@! !@! !@!
+// @!!       @!@  !@!  @!@!!@!   @!!!:!    @!! !!@ @!@     !!@  @!@@!@!   !!@@!!    @!@  !@!  @!! !!@ @!@
+// !!!       !@!  !!!  !!@!@!    !!!!!:    !@!   ! !@!     !!!  !!@!!!     !!@!!!   !@!  !!!  !@!   ! !@!
+// !!:       !!:  !!!  !!: :!!   !!:       !!:     !!:     !!:  !!:            !:!  !!:  !!!  !!:     !!:
+//  :!:      :!:  !:!  :!:  !:!  :!:       :!:     :!:     :!:  :!:           !:!   :!:  !:!  :!:     :!:
+//  :: ::::  ::::: ::  ::   :::   :: ::::  :::     ::       ::   ::       :::: ::   ::::: ::  :::     ::
+// : :: : :   : :  :    :   : :  : :: ::    :      :       :     :        :: : :     : :  :    :      :
+
+
+{
+    "ascii_decorator_font": "Georgia11",
+    "default_insert_as_comment": true,
+
+    /* Define user fonts setup for the favorite fonts menu */
+    "favorite_fonts": [
+        {
+            "name": "Default Font",   // (required) Friendly name for font configuration
+            "font": "Georgia11",      // (required) Font
+            "comment": true,          // Override default setting
+            "comment_style": "block", // Override default comment style
+            "width": 80,              // Override default width
+            "direction": "auto",      // Override default direction
+            "justify": "auto",        // Override default justification
+            "indent": true            // Override default additional indentation setting
+        }
+    ]
+}

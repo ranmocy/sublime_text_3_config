@@ -1,0 +1,16 @@
+{
+	"alignment_chars":
+	[
+		"=",
+		"-"
+	],
+	"alignment_space_chars":
+	[
+		"=",
+		"-"
+	],
+	"extensions":
+	[
+		"coffee"
+	]
+}

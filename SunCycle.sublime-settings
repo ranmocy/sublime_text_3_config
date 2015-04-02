@@ -1,0 +1,19 @@
+{
+    "day": {
+        // "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+        // "theme": "Default.sublime-theme"
+        // "color_scheme": "Packages/User/zenburn (SL).tmTheme",
+        // "theme": "zenburn.sublime-theme"
+        "theme": "Spacegray Light.sublime-theme",
+        "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
+    },
+    "night": {
+        // "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+        // "color_scheme": "Packages/User/zenburn (SL).tmTheme",
+        // "theme": "zenburn.sublime-theme"
+        // "theme": "Spacegray Eighties.sublime-theme",
+        // "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"
+        "theme": "Spacegray.sublime-theme",
+        "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
+    }
+}

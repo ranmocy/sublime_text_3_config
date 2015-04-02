@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+\documentclass[paper=a4, fontsize=11pt]{scrartcl} % A4 paper and 11pt font size
+\usepackage{assignment}
+\settitle{Assignment ${1:1}}
+\setauthor{Wanzhang Sheng}
+\setcourse{${2:MBA6603: Creativity and Innovation}}
+
+\begin{document}
+
+\maketitle % Print the title
+
+$0
+\end{document}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>assignment</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.tex.latex</scope>
+</snippet>

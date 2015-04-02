@@ -1,0 +1,4 @@
+{
+    // define the characters that we can jump to, in the order that they'll appear, they should be unique
+    "placeholder_chars" : "abcdefghijklmnopqrstuvwxyz",
+}

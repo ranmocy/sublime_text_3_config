@@ -1,0 +1,31 @@
+<snippet>
+    <content><![CDATA[
+## ${1:Title}
+
+**Name:** Wanzhang Sheng
+
+**Title of Paper:** ${1:Title}
+**Authors:** ${2:Authors}
+
+**Give a short one paragraph summary of the paper in your own words.**
+
+${3}
+
+**What are the main weaknesses of the paper?**
+
+${4}
+
+**If possible compare this with other work you know about. If possible, provide references.**
+
+${5}
+
+**List three questions or points that you plan to bring up during the discussion.**
+
+$0
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>eval</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.markdown</scope>
+</snippet>

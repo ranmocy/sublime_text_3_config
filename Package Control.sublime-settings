@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"cache_length": 3600,
 	"in_process_packages":
 	[
@@ -11,9 +12,12 @@
 		"ApplySyntax",
 		"Better CoffeeScript",
 		"Better RSpec",
+		"Codecs33",
 		"CoffeeCompile",
+		"ConvertToUTF8",
 		"CoolFormat",
 		"EasyMotion",
+		"EditorConfig",
 		"EncodingHelper",
 		"Evernote",
 		"fish-shell",
@@ -27,8 +31,10 @@
 		"MacTerminal",
 		"Markdown Extended",
 		"Markdown Preview",
-		"Mustang Extended Color Scheme",
+		"MarkdownEditing",
 		"Open URL",
+		"orgmode",
+		"Origami",
 		"Package Control",
 		"Pretty JSON",
 		"Ruby Hash Converter",
@@ -49,6 +55,7 @@
 		"SublimeREPL",
 		"Swift",
 		"Theme - Afterglow",
+		"Theme - Elementary",
 		"Theme - Spacegray",
 		"Themr",
 		"WakaTime",

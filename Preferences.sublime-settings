@@ -1,16 +1,39 @@
 {
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"added_words":
+	[
+		"plugin",
+		"Wanzhang",
+		"Sheng",
+		"subsubsection",
+		"uuid",
+		"func",
+		"num",
+		"broadcasted",
+		"tex",
+		"gevent",
+		"Driverless",
+		"webmail",
+		"Gmail",
+		"Inbox",
+		"Blog",
+		"blogger",
+		"Heroku"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Afterglow-markdown (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
-	"font_size": 17,
+	"font_size": 18,
 	"ignored_packages":
 	[
-		"SublimeREPL",
+		"Markdown",
+		"SublimeLinter-coffee",
 		"SublimeLinter-javac",
+		"SublimeREPL",
 		"Vintage",
-		"SublimeLinter-coffee"
+		"WakaTime"
 	],
+	"ignore_vcs_packages": true,
 	"indent_guide_options":
 	[
 		"draw_active"
@@ -27,7 +50,7 @@
 	"status_bar_brighter": true,
 	"tab_size": 4,
 	"tabs_small": true,
-	"theme": "Afterglow-orange.sublime-theme",
+	"theme": "Afterglow.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,

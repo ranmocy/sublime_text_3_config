@@ -1,9 +1,11 @@
 {
 	"extensions":
 	[
-		"sublime-commands",
-		".jshintrc",
+		".bowerrc",
+		".csslintrc",
 		".jscsrc",
-		".csslintrc"
+		".eslintrc",
+		".jshintrc",
+		"sublime-commands"
 	]
 }

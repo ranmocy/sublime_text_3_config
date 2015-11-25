@@ -33,7 +33,6 @@
 		"Vintage",
 		"WakaTime"
 	],
-	"ignore_vcs_packages": true,
 	"indent_guide_options":
 	[
 		"draw_active"

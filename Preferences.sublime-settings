@@ -23,15 +23,25 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
-	"font_size": 18,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Markdown",
+		"Better CoffeeScript",
+		"Better RSpec",
+		"Elixir",
+		"LaTeXTools",
+		"LESS",
+		"Ruby Slim",
+		"Sass",
+		"Solarized Color Scheme",
+		"SublimeLinter-chktex",
 		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-clang",
 		"SublimeLinter-javac",
-		"SublimeREPL",
+		"SublimeLinter-pylint",
+		"SublimeLinter-ruby",
 		"Vintage",
-		"WakaTime"
+		"zenburn"
 	],
 	"indent_guide_options":
 	[

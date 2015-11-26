@@ -23,6 +23,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"LaTeXTools",
 		"LESS",
+		"LiveReload",
 		"Markdown Extended",
 		"Open URL",
 		"Package Control",
@@ -45,5 +46,9 @@
 		"Themr",
 		"zenburn",
 		"Zip Browser"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
 	]
 }

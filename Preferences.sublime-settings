@@ -19,7 +19,7 @@
 		"blogger",
 		"Heroku"
 	],
-	"color_scheme": "Packages/User/SublimeLinter/Afterglow-markdown (SL).tmTheme",
+	"color_scheme": "Packages/User/Afterglow-markdown (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",

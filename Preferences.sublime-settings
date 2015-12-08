@@ -40,8 +40,7 @@
 		"SublimeLinter-javac",
 		"SublimeLinter-pylint",
 		"SublimeLinter-ruby",
-		"Vintage",
-		"zenburn"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[

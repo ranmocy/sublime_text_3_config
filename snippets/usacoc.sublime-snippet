@@ -1,0 +1,41 @@
+<snippet>
+    <content><![CDATA[
+/*
+  PROG: ${TM_FILENAME/(.+)\..+|.*/$1/:name}
+  LANG: C
+  ID: ranmocy1
+*/
+
+#include <stdio.h>
+${1:#define N 100}
+typedef enum { false, true } bool;
+
+${4:int lock1[COMBINATION_LENGTH], lock2[COMBINATION_LENGTH]};
+
+int main(int argc, char const *argv[])
+{
+    {
+        FILE *fin = fopen("${TM_FILENAME/(.+)\..+|.*/$1/:name}.in", "r");
+        fscanf(fin, ${2:"%d %d %d", &N, &P, &C});
+        fclose(fin);
+    }
+
+    {
+        $0
+    }
+
+    {
+        FILE *fout = fopen("${TM_FILENAME/(.+)\..+|.*/$1/:name}.out", "w");
+        fprintf(fout, ${3:"%d\n", d});
+        fclose(fout);
+    }
+
+    return 0;
+}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>usacoc</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c</scope>
+</snippet>

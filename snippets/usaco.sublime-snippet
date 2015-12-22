@@ -1,0 +1,44 @@
+<snippet>
+    <content><![CDATA[
+/*
+  PROG: ${TM_FILENAME/(.+)\..+|.*/$1/:name}
+  LANG: C++
+  ID: ranmocy1
+*/
+
+#include <iostream>
+#include <fstream>
+#include <cstdlib>
+using namespace std;
+
+${1:#define N 100}
+
+${4:int i, j;}
+
+int main(int argc, char const *argv[])
+{
+    {
+        ifstream fin("${TM_FILENAME/(.+)\..+|.*/$1/:name}.in");
+        ${2:fin >> N;}
+        fin.close();
+    }
+
+    {
+        $0
+    }
+
+    {
+        ofstream fout("${TM_FILENAME/(.+)\..+|.*/$1/:name}.out");
+        ${3:fout << result << "\n";}
+        fout.close();
+    }
+
+    return 0;
+}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>usaco</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

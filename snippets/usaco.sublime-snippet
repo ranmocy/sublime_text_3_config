@@ -11,28 +11,24 @@
 #include <cstdlib>
 using namespace std;
 
-${1:#define N 100}
+#define N 100
 
-${4:int i, j;}
+int i, j;
 
-int main(int argc, char const *argv[])
-{
-    {
-        ifstream fin("${TM_FILENAME/(.+)\..+|.*/$1/:name}.in");
-        ${2:fin >> N;}
-        fin.close();
-    }
 
-    {
-        $0
-    }
+int solve() {
+    $0
+    return 0;
+}
 
-    {
-        ofstream fout("${TM_FILENAME/(.+)\..+|.*/$1/:name}.out");
-        ${3:fout << result << "\n";}
-        fout.close();
-    }
+int main(int argc, char const *argv[]) {
+    ifstream fin("${TM_FILENAME/(.+)\..+|.*/$1/:name}.in");
+    fin >> N;
+    fin.close();
 
+    ofstream fout("${TM_FILENAME/(.+)\..+|.*/$1/:name}.out");
+    fout << solve() << "\n";
+    fout.close();
     return 0;
 }
 

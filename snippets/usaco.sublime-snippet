@@ -9,24 +9,26 @@
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
-using namespace std;
+#include <algorithm>
+#include <limits.h>
+#define MAX_N 100
 
-#define N 100
-
-int i, j;
+int n = INT_MAX, input[MAX_N];
 
 
 int solve() {
+    std::sort(input, input+n, std::less<int>());
+    std::copy(input, input+n, output);
     $0
     return 0;
 }
 
 int main(int argc, char const *argv[]) {
-    ifstream fin("${TM_FILENAME/(.+)\..+|.*/$1/:name}.in");
-    fin >> N;
+    std::ifstream fin("${TM_FILENAME/(.+)\..+|.*/$1/:name}.in");
+    fin >> n;
     fin.close();
 
-    ofstream fout("${TM_FILENAME/(.+)\..+|.*/$1/:name}.out");
+    std::ofstream fout("${TM_FILENAME/(.+)\..+|.*/$1/:name}.out");
     fout << solve() << "\n";
     fout.close();
     return 0;

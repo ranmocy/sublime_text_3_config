@@ -1,11 +1,12 @@
 {
 	"extensions":
 	[
+		"sublime-commands",
 		".csslintrc",
+		"geojson",
 		".jscsrc",
 		".bowerrc",
-		".jshintrc",
-		"sublime-commands",
-		".eslintrc"
+		".eslintrc",
+		".jshintrc"
 	]
 }

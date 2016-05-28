@@ -1,6 +1,5 @@
 {
     "enabled_plugins" : [
-        "SimpleReloadPluginDelay",
-        "SimpleRefresh"
+        "SimpleReloadPluginDelay"
     ]
 }

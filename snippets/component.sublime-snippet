@@ -1,0 +1,31 @@
+<snippet>
+    <content><![CDATA[
+<template>
+  <style media="screen">
+    :host {
+    }
+  </style>
+</template>
+
+<script type="text/javascript">
+  (function() {
+    "use strict";
+
+    var template = document.currentScript.ownerDocument.querySelector('template');
+
+    class ${1:${TM_FILENAME/(.+)\..+$/\u$1/:name}} extends XElement {
+      createdCallback() {
+        this.createShadowRoot().appendChild(document.importNode(template.content, true));
+        $0
+      }
+    }
+
+    document.registerElement("x-${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2-\2)/g}", ${1});
+  })();
+</script>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>component</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>

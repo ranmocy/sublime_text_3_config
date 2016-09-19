@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<template>
+<template id="${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2-\2)/g}">
   <style media="screen">
     :host {
     }
@@ -11,11 +11,11 @@
   (function() {
     "use strict";
 
-    var template = document.currentScript.ownerDocument.querySelector('template');
+    var \$\$\$${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2_\2)/g} = document.currentScript.ownerDocument.querySelector('template#${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2-\2)/g}');
 
     class ${1:${TM_FILENAME/(.+)\..+$/\u$1/:name}} extends XElement {
       createdCallback() {
-        this.createShadowRoot().appendChild(document.importNode(template.content, true));
+        this.createShadowRoot().appendChild(document.importNode(\$\$\$${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2_\2)/g}.content, true));
         $0
       }
     }

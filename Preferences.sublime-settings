@@ -49,13 +49,13 @@
 	"rulers":
 	[
 		80,
-		120,
+		120
 	],
 	"show_encoding": true,
 	"sidebar_row_padding_large": true,
 	"sidebar_size_14": true,
 	"status_bar_brighter": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"tabs_small": true,
 	"theme": "Afterglow.sublime-theme",
 	"translate_tabs_to_spaces": true,

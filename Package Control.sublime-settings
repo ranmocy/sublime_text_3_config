@@ -6,6 +6,7 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"AdvancedNewFile",
 		"Alignment",
 		"ApplySyntax",

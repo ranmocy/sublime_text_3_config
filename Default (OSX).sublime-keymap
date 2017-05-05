@@ -44,6 +44,8 @@
     // Insert date, time
     { "keys": ["ctrl+shift+,"], "command": "add_date" },
     { "keys": ["ctrl+shift+."], "command": "add_time" },
+    // randomize
+    { "keys": ["ctrl+shift+r"], "command": "randomize" },
     // Align
     { "keys": ["ctrl+shift+a"], "command": "alignment" },
     // Search in Project

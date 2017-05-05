@@ -19,6 +19,23 @@
 		"blogger",
 		"Heroku"
 	],
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"node_modules/**"
+	],
 	"color_scheme": "Packages/User/Afterglow-markdown (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,

@@ -10,6 +10,8 @@
 #include <fstream>
 #include <cstdlib>
 #include <algorithm>
+#include <cstring>
+#include <math.h>
 #include <limits.h>
 #define MAX_N 100
 
@@ -17,13 +19,15 @@ int n = INT_MAX, input[MAX_N];
 
 
 int solve() {
-    std::sort(input, input+n, std::less<int>());
-    std::copy(input, input+n, output);
+    // std::sort(input, input+n, std::less<int>());
+    // std::copy(input, input+n, output);
     $0
     return 0;
 }
 
 int main(int argc, char const *argv[]) {
+    std::memset(input, 0, sizeof input);
+
     std::ifstream fin("${TM_FILENAME/(.+)\..+|.*/$1/:name}.in");
     fin >> n;
     fin.close();

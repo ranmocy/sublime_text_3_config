@@ -2,7 +2,7 @@
     <content><![CDATA[
 /*
   PROG: ${TM_FILENAME/(.+)\..+|.*/$1/:name}
-  LANG: C++
+  LANG: C++11
   ID: ranmocy1
 */
 

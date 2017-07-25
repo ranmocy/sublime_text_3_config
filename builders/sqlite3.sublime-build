@@ -1,0 +1,3 @@
+{
+  "shell_cmd": "sqlite3 $file_base_name.db < $file 2>&1"
+}

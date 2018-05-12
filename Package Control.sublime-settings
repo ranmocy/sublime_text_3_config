@@ -37,6 +37,7 @@
 		"Pretty JSON",
 		"Ruby Slim",
 		"Sass",
+		"Scheme",
 		"SCSS",
 		"Search in Project",
 		"SideBarEnhancements",
@@ -50,6 +51,7 @@
 		"SublimeLinter-javac",
 		"SublimeLinter-pylint",
 		"SublimeLinter-ruby",
+		"SublimeREPL",
 		"Theme - Afterglow",
 		"Themr",
 		"Zip Browser"

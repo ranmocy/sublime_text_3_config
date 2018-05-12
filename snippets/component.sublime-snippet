@@ -11,16 +11,17 @@
   (function() {
     "use strict";
 
-    var \$\$\$${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2_\2)/g} = document.currentScript.ownerDocument.querySelector('template#${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2-\2)/g}');
+    const \$\$\$${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2_\2)/g} = document.currentScript.ownerDocument.querySelector('template#${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2-\2)/g}');
 
     class ${1:${TM_FILENAME/(.+)\..+$/\u$1/:name}} extends XElement {
-      createdCallback() {
-        this.createShadowRoot().appendChild(document.importNode(\$\$\$${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2_\2)/g}.content, true));
+      constructor() {
+        super();
+        this.attachShadow({mode: 'open'}).appendChild(document.importNode(\$\$\$${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2_\2)/g}.content, true));
         $0
       }
     }
 
-    document.registerElement("x-${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2-\2)/g}", ${1});
+    window.customElements.define("x-${1/(^[A-Z][a-z]*|[a-z])([A-Z])?/\L\1(?2-\2)/g}", ${1});
   })();
 </script>
 ]]></content>

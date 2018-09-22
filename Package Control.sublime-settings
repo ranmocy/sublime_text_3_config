@@ -30,6 +30,7 @@
 		"LESS",
 		"LiveReload",
 		"Markdown Extended",
+		"MarkdownPreview",
 		"Open URL",
 		"Package Control",
 		"PackageResourceViewer",
@@ -53,8 +54,8 @@
 		"SublimeREPL",
 		"Theme - Afterglow",
 		"Themr",
-		"Zip Browser",
-		"MarkdownPreview"
+		"TypeScript",
+		"Zip Browser"
 	],
 	"repositories":
 	[

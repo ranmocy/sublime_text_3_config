@@ -40,7 +40,7 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
-	"font_size": 18,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -63,6 +63,7 @@
 		"Solarized Color Scheme",
 		"SublimeLinter-chktex",
 		"SublimeLinter-coffee",
+		"SublimeLinter-eslint",
 		"SublimeLinter-javac",
 		"SublimeLinter-pylint",
 		"SublimeLinter-ruby",

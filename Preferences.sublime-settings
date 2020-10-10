@@ -67,7 +67,8 @@
 		"SublimeLinter-javac",
 		"SublimeLinter-pylint",
 		"SublimeLinter-ruby",
-		"Vintage"
+		"Vintage",
+		"Zip Browser"
 	],
 	"indent_guide_options":
 	[

@@ -2,8 +2,6 @@
 	"added_words":
 	[
 		"plugin",
-		"Wanzhang",
-		"Sheng",
 		"subsubsection",
 		"uuid",
 		"func",
@@ -43,21 +41,6 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"ActionScript",
-		"AppleScript",
-		"ASP",
-		"Clojure",
-		"D",
-		"Go",
-		"Haskell",
-		"LaTeX",
-		"LaTeXTools",
-		"LESS",
-		"Objective-C",
-		"OCaml",
-		"Rust",
-		"Solarized Color Scheme",
-		"SublimeLinter-eslint",
 		"Vintage"
 	],
 	"indent_guide_options":

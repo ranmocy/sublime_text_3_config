@@ -3,8 +3,8 @@
 	[
 		"xslt",
 		"xml.dist",
+		"xsd",
 		"svg",
 		"xml",
-		"xsd"
-	]
+	],
 }

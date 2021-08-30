@@ -8,17 +8,14 @@
 	[
 		"AdvancedNewFile",
 		"ApplySyntax",
-		"Babel",
 		"ConvertToUTF8",
 		"EasyMotion",
 		"Evernote",
 		"HexViewer",
 		"Kotlin",
-		"LESS",
 		"MarkdownPreview",
 		"Open URL",
 		"Package Control",
-		"Pretty JSON",
 		"SCSS",
 		"Search in Project",
 		"SideBarEnhancements",
@@ -28,10 +25,10 @@
 		"SublimeLinter-eslint",
 		"Theme - Afterglow",
 		"Themr",
-		"TypeScript"
+		"TypeScript",
 	],
 	"repositories":
 	[
 		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
-	]
+	],
 }

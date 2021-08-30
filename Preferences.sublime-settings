@@ -41,7 +41,7 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"indent_guide_options":
 	[
@@ -64,5 +64,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"warn_overwrite_on_move": true
+	"warn_overwrite_on_move": true,
 }

@@ -2,6 +2,6 @@
 	"extensions":
 	[
 		"html.erb",
-		"html",
-	],
+		"html"
+	]
 }

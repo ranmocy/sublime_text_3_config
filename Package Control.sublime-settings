@@ -12,11 +12,9 @@
 		"EasyMotion",
 		"Evernote",
 		"HexViewer",
-		"Kotlin",
 		"MarkdownPreview",
 		"Open URL",
 		"Package Control",
-		"SCSS",
 		"Search in Project",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
@@ -25,7 +23,6 @@
 		"SublimeLinter-eslint",
 		"Theme - Afterglow",
 		"Themr",
-		"TypeScript",
 	],
 	"repositories":
 	[

@@ -65,4 +65,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"warn_overwrite_on_move": true,
+	"update_check": false,
 }
